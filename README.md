@@ -10,18 +10,31 @@ https://github.com/bstcine/cine-tasklist/issues/43
 
 - iOS
 ```
-  iOS-学习系统:
-  iOS-商城:
-  iOS-下载:
-  iOS-购买与支付:
-  iOS-登录与注册:
-  iOS-个人设置:
+  iOS-学习系统: ***
+  iOS-商城: ***
+  iOS-下载: ***
+  iOS-购买与支付: ***
+  iOS-登录与注册: ***
+  iOS-个人设置:  ***
 ```
   
 - Android
-  - Android-学习系统/商城/下载/购买与支付
+```
+  Android-学习系统: ***
+  Android-商城: ***
+  Android-下载: ***
+  Android-购买与支付: ***
+  Android-登录与注册: ***
+  Android-个人设置:  ***
+```
+
   
 - Web
+```
+  PC-后台管理: ***
+  PC-后台配置: ***
+```
+
 
 - API
 

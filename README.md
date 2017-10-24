@@ -6,6 +6,18 @@ https://github.com/bstcine/cine-tasklist/issues/43
 
 <br>
 
+## Task 命名规范
+
+- iOS
+  - iOS-学习系统/商城/下载/购买与支付
+- Android
+  - Android-学习系统/商城/下载/购买与支付
+- Web
+- API
+
+
+<br>
+
 ## History
 
 ### 2017-09-28

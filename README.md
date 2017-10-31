@@ -46,12 +46,15 @@ https://github.com/bstcine/cine-tasklist/issues/43
 <br>
 
 ## Task 测试规范
+
 - iOS
-   - V1: https://fir.im/cineEducation
-   - V2: https://fir.im/cine.ios
+   - V1: https://fir.im/cineEducation
+   -  V2: https://fir.im/cine.ios
+
 
 - Android
-   - V1: https://fir.im/bstc
+    - https://fir.im/bstc
+
 
 - PC
    - Web: http://apptest.bstcine.com/

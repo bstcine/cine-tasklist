@@ -45,6 +45,11 @@ https://github.com/bstcine/cine-tasklist/issues/43
 <br>
 <br>
 
+## Task 完成标准
+- a
+- b
+- c
+
 ## Task 测试规范
 
 

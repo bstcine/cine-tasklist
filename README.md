@@ -38,8 +38,27 @@ https://github.com/bstcine/cine-tasklist/issues/43
 
 
 - API
+```
+  API: ***
+```
 
+<br>
+<br>
 
+## Task 测试规范
+- iOS
+   - V1: https://fir.im/cineEducation
+   - V2: https://fir.im/cine.ios
+
+- Android
+   - V1: https://fir.im/bstc
+
+- PC
+   - Web: http://apptest.bstcine.com/
+   - WebAdmin: http://apptest.bstcine.com/admin/
+   - API: http://apptest.bstcine.com/
+
+<br>
 <br>
 
 ## History

@@ -46,9 +46,13 @@ https://github.com/bstcine/cine-tasklist/issues/43
 <br>
 
 ## Task 完成标准
-- a
-- b
-- c
+- Feature 类型提供 `Solution`
+- Bug 类型提供 `Reason` & `Solution`
+- `Solution` (包含临时）要确保没有性能问题。
+- 开发本人需要亲自测试通过， 且上传到规定测试位置
+
+<br>
+<br>
 
 ## Task 测试规范
 

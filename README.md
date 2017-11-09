@@ -60,7 +60,8 @@ https://github.com/bstcine/cine-tasklist/issues/43
 
 - iOS
    - V1: https://fir.im/cineEducation
-   - V2: https://fir.im/cine.ios
+   - V1Test: http://fir.im/iPhoneTestCine
+   - V2: https://fir.im/cine.ios
 
 <br>
 

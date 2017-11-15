@@ -75,6 +75,17 @@ https://github.com/bstcine/cine-tasklist/issues/43
    - WebAdmin: http://apptest.bstcine.com/admin/
    - API: http://apptest.bstcine.com/
    
+<br>
+<br>
+
+## Task 负责人
+- 数据库   `@David`
+- H5      `@David`
+- API     `@Leo`
+- 数据校验 `@Kim`
+- 数据配置  `@Jerry`
+- iOS 测试  `@Kim`
+- Android 测试  `@Arron`
 
 <br>
 <br>

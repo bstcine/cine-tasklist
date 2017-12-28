@@ -7,6 +7,15 @@ https://github.com/bstcine/cine-tasklist/issues/43
 <br>
 
 ## Task 命名规范
+- H5
+```
+  H5-学习系统: ***
+  H5-商城: ***
+  H5-下载: ***
+  H5-购买与支付: ***
+  H5-登录与注册: ***
+  H5-个人设置:  ***
+```
 
 - iOS
 ```
@@ -27,7 +36,6 @@ https://github.com/bstcine/cine-tasklist/issues/43
   Android-登录与注册: ***
   Android-个人设置:  ***
 ```
-
   
 - Web
 ```

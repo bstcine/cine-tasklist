@@ -65,10 +65,10 @@ https://github.com/bstcine/cine-tasklist/issues/43
 ## Task 测试规范
 
 
-- iOS
-    - iPhone: https://fir.im/cineiPhone
-    - iPad: https://fir.im/cinePad
 
+- iOS
+   - iPhone: https://fir.im/cineiPhone
+   - iPad: https://fir.im/cinePad
 
 <br>
 

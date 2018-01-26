@@ -66,8 +66,8 @@ https://github.com/bstcine/cine-tasklist/issues/43
 
 
 - iOS
-    - V1: https://fir.im/cineEducation
-    - V2: https://fir.im/cineiPhone
+    - iPhone: https://fir.im/cineiPhone
+    - iPad: https://fir.im/cinePad
 
 
 <br>

@@ -1,8 +1,8 @@
 ## Task list
 
-### 2017-10: V-1-1-6 && V-2.0.1
+### 2018-03: Track-task list: V-2.3.1
 
-https://github.com/bstcine/cine-tasklist/issues/43
+https://github.com/bstcine/cine-tasklist/issues/269
 
 <br>
 
@@ -87,19 +87,20 @@ https://github.com/bstcine/cine-tasklist/issues/43
 <br>
 
 ## Task 负责人
-- 数据库   `@David`
-- H5      `@David`
-- API     `@Leo`
-- 数据校验 `@Kim`
-- 数据配置  `@Jerry`
-- iOS 测试  `@Kim`
-- Android 测试  `@Arron`
+- API      `@Leo`
+- iOS      `@Arron`
+- Android  `@Kim`
+- H5       `@David`
+- 数据库    `@David`
+- 数据校验  `@Kim`
+- 后台配置  `@Jerry`
+- 测试     `@Jerry`
+
 
 <br>
 <br>
 
 ## History
 
-### 2017-09-28
+https://github.com/bstcine/cine-tasklist/releases
 
-https://github.com/bstcine/cine-tasklist/issues/11

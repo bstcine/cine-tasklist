@@ -15,6 +15,7 @@ https://github.com/bstcine/cine-tasklist/issues/269
   H5-购买与支付: ***
   H5-登录与注册: ***
   H5-个人设置:  ***
+  H5-老师控制台:  ***
 ```
 
 - iOS
